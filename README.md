@@ -17,8 +17,8 @@ I'm an aspiring machine learning engineer with hands-on experience in Python, SQ
 
 ## 🌱 Current Focus
 
-🚀 **AI-Powered Doctor: A Full-Stack Autonomous Healthcare System** 🚀  
-This project is a highly machine-learning-intensive system that aims to automate medical diagnostics and patient management. It will push your ML skills to the next level by covering computer vision, NLP, time-series forecasting, federated learning, and distributed ML.
+🚀 MediLink: AI-Powered Doctor — A Full-Stack Autonomous Healthcare System
+Developed a large-scale, machine learning–driven healthcare platform designed to automate medical diagnostics and patient management. The system integrates computer vision (X-ray and MRI analysis), NLP (patient symptom analysis), time-series forecasting (health monitoring and progression prediction), and recommendation systems (personalized treatment and doctor/hospital suggestions). Implemented federated learning and distributed ML to ensure privacy-preserving collaboration across hospitals.
 
 ## 🤝 Let's Connect  
 
