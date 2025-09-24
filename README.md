@@ -17,7 +17,7 @@ Aspiring machine learning engineer with practical experience in Python, SQL, and
 
 ## 🌱 Current Focus
 
-🚀 MediLink: AI-Powered Doctor — A Full-Stack Autonomous Healthcare System
+🚀 MediLink: AI-Powered Doctor 🚀— A Full-Stack Autonomous Healthcare System
 Developed a large-scale, machine learning–driven healthcare platform designed to automate medical diagnostics and patient management. The system integrates computer vision (X-ray and MRI analysis), NLP (patient symptom analysis), time-series forecasting (health monitoring and progression prediction), and recommendation systems (personalized treatment and doctor/hospital suggestions). Implemented federated learning and distributed ML to ensure privacy-preserving collaboration across hospitals.
 
 ## 🤝 Let's Connect  
