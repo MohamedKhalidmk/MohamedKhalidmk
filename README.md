@@ -1,7 +1,7 @@
 # 🚀 Mohamed Khaled  
-**Aspiring Machine Learning Engineer | Data Enthusiast | AI Researcher**  
+**Aspiring Machine Learning Engineer | AI Researcher | Data Enthusiast**  
 
-I'm an aspiring machine learning engineer with hands-on experience in Python, SQL, and building AI solutions. Passionate about deep learning, computer vision, and solving real-world problems through AI. Always eager to learn and explore the cutting edge of technology.
+Aspiring machine learning engineer with practical experience in Python, SQL, and AI development. Strong interest in deep learning, computer vision, and natural language processing, with a focus on applying AI to solve real-world challenges. Motivated to keep learning and contributing to research and innovation in artificial intelligence.
 
 ## 🧰 Languages and Tools
 
