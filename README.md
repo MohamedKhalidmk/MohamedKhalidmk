@@ -6,44 +6,24 @@ I learn primarily by building. I regularly teach myself new technologies and are
 
 I have hands-on experience across the ML stack, including PyTorch, TensorFlow, Hugging Face, CUDA, GPU/TPU training, parallel computing, LoRA/QLoRA, LangGraph, retrieval systems, Docker, AWS, and MLOps tooling. I enjoy applying these across different domains, from healthcare AI and medical imaging to LLM systems, blockchain security, and DeFi risk analysis. I’m always looking for the next challenging problem to build and investigate.
 
-## Languages
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-006A4D?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## Machine Learning / AI
-
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
 ## LLMs / RAG / Agentic AI
 
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/-Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/-Weaviate-4D6BFE?style=for-the-badge&logo=weaviate&logoColor=white)
 
-RAG · BM25 · Dense Retrieval · Sentence Transformers · MedCPT · Embeddings · Re-ranking · Semantic Search · LLM Evaluation · LLM-as-a-Judge · Citation-Grounded Generation · Hallucination Detection · Prompt Engineering
-
 ## Deep Learning / Training
 
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/-NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-
-LoRA · QLoRA · PEFT · Transfer Learning · Mixed Precision · GPU Training · TPU Training · Distributed Training · Parallel Computing · Quantization · Gradient Accumulation · Hyperparameter Optimization · Learning-Curve Analysis · Experiment Tracking
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ## Backend / Cloud / DevOps
 
@@ -52,11 +32,10 @@ LoRA · QLoRA · PEFT · Transfer Learning · Mixed Precision · GPU Training ·
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
-Docker Compose · REST APIs · Microservices · CI/CD · MLOps · Backend Development · Cloud Deployment · Reproducible Experiments
 
 ## Featured Projects
 
